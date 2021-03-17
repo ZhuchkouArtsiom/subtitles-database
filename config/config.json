@@ -1,0 +1,23 @@
+{
+  "default": {
+    "username": "admin",
+    "password": "admin",
+    "database": "subtitles",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "development": {
+    "username": "admin",
+    "password": "admin",
+    "database": "subtitles",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "admin",
+    "password": "9Mvr2DXHwyFMbn",
+    "database": "subtitles",
+    "host": "subtitles-database",
+    "dialect": "postgres"
+  }
+}
